@@ -4,8 +4,8 @@
 Show the results of the Heat Equation in one dimension by the Euler methods: implicit and explicit.
 
 ## Requirements
-*Use project control with make./
-*Use source control./
+*Use project control with make.  
+*Use source control.  
 *Use of I/O libraries for checkpoint/restart capability./
 
 ## Instructions
